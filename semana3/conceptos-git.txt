@@ -1,0 +1,11 @@
+Que es un repositorio ?
+Un repositorio es un espacio donde se guardan los archivos de un proyecto.
+Tambien nos permite organizar y controlar todos los cambios realizados.
+
+Que es un commit?
+Es un registro o un punto de guardado sobre los cambios hechos de un proyecto.
+Sirve para mantener un historial organizado de los trabajos hechos o realizados.
+
+Que push ?
+Este comando es el encargado de enviar los cambios del repositorio local hacia github.
+permite actualizar el proyecto en internet y compartirlo con otros.
